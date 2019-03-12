@@ -1,2 +1,2 @@
 # rainbow-bot-free
-Free version of bot Colorful#6778
+Free version of the bot Colorful#6778
