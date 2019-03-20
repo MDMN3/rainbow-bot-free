@@ -102,7 +102,7 @@ class Bot {
                 .setDescription(`**Commands list:**\n${arr.join('\n')}`)
                 .addField('Buy full version', `**:kiwi: Qiwi - https://qiwi.me/andreybots\n:moneybag: PayPal - https://donatebot.io/checkout/496233900071321600\n◽ Type ${_this.prefixes[0]}donate for more info**`)
                 .setColor(_this.colors.blurple)
-                .setFooter('<> with ❤ by ANDREY#8389');
+                .setFooter('<> with ❤ by ANDREY#2623');
                 message.channel.send(embed);
             }
         });
