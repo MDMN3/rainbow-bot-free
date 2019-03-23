@@ -28,7 +28,7 @@ class Bot {
             green: '55ff55',
         };
 
-        this.serverLink = 'https://discord.gg/NvcAKdt';
+        this.serverLink = 'https://discord.gg/bM6eVMt';
 
         this.err = (message, reason, perms) => {
             const embed = new Discord.RichEmbed()
